@@ -13,11 +13,16 @@ Software developer and wearer of many hats.
 ## Experience
 Here's a sample of some cool projects I've worked on in the past, or that I'm working on now:
 
+#### LitCharts
++ Designing and building AI agents to help surface and repackage site content and answer user questions
++ Migrating site metrics from New Relic to Datadog seemlessly while supporting a migration from Heroku to AWS
++ Developing, documenting and applying disaster recovery and software version upgrade guides
++ Countless user facing features involving every layer of the tech stack from [container](https://www.docker.com/) to [component](https://react.dev/)
+
 #### Shopify
 + Account management
 + Account deletion through iOS
 + Optimization and analysis surrounding Shopify's enormous scale of accounts
-+ A bunch of secret stuff I'm not allowed to talk about
 
 #### Client Work
 + The sole developer and architect for [TasteToronto](https://www.tastetoronto.com/), a web app for finding, sharing, and ranking restaurants, dishes, recipes and events from around Toronto
@@ -55,8 +60,8 @@ A brief sampling of some of the technology I've worked with professionally:
 + **Testing:** `rspec`, `rails minitest`, `mocha`, `chai`, `python unittest`, `ginkgo`, `gomega`
 + **Containers:** `docker`, `docker hub`, `kubernetes`
 + **Package Managers:** `rubygems`, `yarn`, `npm`, `pip`, `apm`, `goop`
-+ **Automation:** `travis-ci`, `semaphoreci`, `capistrano`, `ansible`, `chef`, `hubot`
-+ **Hosting and Infrastructure:** `aws ec2`, `aws elastic beanstalk`, `aws s3`, `aws rds`, `google cloud platform`, `heroku`, `digital ocean`
++ **Automation:** `terraform`, `travis-ci`, `semaphoreci`, `capistrano`, `ansible`, `chef`, `hubot`
++ **Hosting and Infrastructure:** `aws ec2`,`aws elastic container service`, `aws elastic beanstalk`, `aws s3`, `aws rds`, `google cloud platform`, `heroku`, `digital ocean`
 
 And some technology I'm interested in, but haven't yet gotten to work with professionally:
 + **Languages:** `elixir`, `rust`
