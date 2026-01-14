@@ -2,7 +2,11 @@
 
 [![Me](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](http://devonoel.com/)
 
-Software developer and wearer of many hats.
+Full stack developer and wearer of many hats.
+
+## The Pitch
+
+Hello, I'm Devon the Developer. I'm a senior/staff level full stack developer with over a decade of experience and a strong proficiency in Rails and JS (Node/TS/React/etc). I'm comfortable on all levels of the stack from container to component. I'm a generalist who accepts any challenge and delivers consistent results with a smile. I've worked both with and on AI agents extensively. I've worked with large volumes of users at scale with minimal downtime, and worked on data and metrics related to those high volumes. I've taken new ventures from initial sketches, to launch, to scale. I've lead small teams, mentored, and run workshops. Whether its user-facing feature development, business logic optimatization, infrastructure as code, auditing AI workflows, leading a team of engineers, or anything else I'm your guy.
 
 ## Contact
 + **Website:** [devonoel.com](http://devonoel.com/)
