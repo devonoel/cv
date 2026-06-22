@@ -17,6 +17,12 @@ Hello, I'm Devon the Developer. I'm a senior/staff level full stack developer wi
 ## Experience
 Here's a sample of some cool projects I've worked on in the past, or that I'm working on now:
 
+#### Senpilot
++ Worked on an AI powered utilities (aka. hydro/power) app
++ Built tools for and trained a custom AI assistant
++ Used AI agents to parse and ingest messy customer data
++ Built observability and testability into custom AI assistant
+
 #### LitCharts
 + Designing and building AI agents to help surface and repackage site content and answer user questions
 + Migrating site metrics from New Relic to Datadog seemlessly while supporting a migration from Heroku to AWS
