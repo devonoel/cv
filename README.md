@@ -6,11 +6,14 @@ Full stack developer and wearer of many hats.
 
 ## The Pitch
 
-Hello, I'm Devon the Developer. I'm a senior/staff level full stack developer with over a decade of experience and a strong proficiency in Rails and JS (Node/TS/React/etc). I'm comfortable on all levels of the stack from container to component. I'm a generalist who accepts any challenge and delivers consistent results with a smile. I've worked both with and on AI agents extensively. I've worked with large volumes of users at scale with minimal downtime, and worked on data and metrics related to those high volumes. I've taken new ventures from initial sketches, to launch, to scale. I've lead small teams, mentored, and run workshops. Whether its user-facing feature development, business logic optimatization, infrastructure as code, auditing AI workflows, leading a team of engineers, or anything else I'm your guy.
+Hello, I'm Devon the Developer. I'm a senior/staff level full stack developer with over a decade of experience and strong proficiency in Rails and JS (Node/TS/React/etc). I'm comfortable at every level of the stack, from container to component, and I've worked both with and on AI agents extensively.
+
+I've taken ventures from initial sketch to launch to scale, operated at high user volumes with minimal downtime, and led small teams, mentored, and run workshops along the way. Whether it's user-facing feature development, business logic optimization, infrastructure as code, auditing AI workflows, or leading a team of engineers, I'm your guy.
 
 ## Contact
 + **Website:** [devonoel.com](http://devonoel.com/)
 + **Github:** [github.com/devonoel](https://github.com/DevoNoel)
++ **LinkedIn:** [linkedin.com/in/devon-noel-de-tilly](https://www.linkedin.com/in/devon-noel-de-tilly-02b69b70/)
 + **Email:** [devon.noeldetilly@gmail.com](mailto:devon.noeldetilly@gmail.com)
 + **Phone:** 647-539-3446
 
@@ -25,7 +28,7 @@ Here's a sample of some cool projects I've worked on in the past, or that I'm wo
 
 #### LitCharts
 + Designing and building AI agents to help surface and repackage site content and answer user questions
-+ Migrating site metrics from New Relic to Datadog seemlessly while supporting a migration from Heroku to AWS
++ Migrating site metrics from New Relic to Datadog seamlessly while supporting a migration from Heroku to AWS
 + Developing, documenting and applying disaster recovery and software version upgrade guides
 + Countless user facing features involving every layer of the tech stack from [container](https://www.docker.com/) to [component](https://react.dev/)
 
@@ -43,7 +46,7 @@ Here's a sample of some cool projects I've worked on in the past, or that I'm wo
 
 #### Bitmaker Labs/General Assembly Toronto
 + A [command line utility](https://github.com/bitmaker-internal/screencastr) to convert, combine, and brand screencasts built on top of `ffmpeg`
-+ A simple [web scrapper](https://github.com/devonoel/dino-scraper) to grab information about dinosaurs from the [London Natural History Museum's website](https://www.nhm.ac.uk/discover/dino-directory.html) and populate a SQL database for an assignment for my students
++ A simple [web scraper](https://github.com/devonoel/dino-scraper) to grab information about dinosaurs from the [London Natural History Museum's website](https://www.nhm.ac.uk/discover/dino-directory.html) and populate a SQL database for an assignment for my students
 
 #### 500px
 + A golang service for managing user notifications
@@ -64,9 +67,10 @@ Here's a sample of some cool projects I've worked on in the past, or that I'm wo
 ## Technology
 A brief sampling of some of the technology I've worked with professionally:
 
-+ **Languages:** `ruby`, `js`, `python`, `golang`, `c#`, `vb`
-+ **Backend Frameworks:** `rails`, `sinatra`, `express.js`, `django`, `.net`
++ **Languages:** `ruby`, `js`, `typescript`, `python`, `golang`, `c#`, `vb`
++ **Backend Frameworks:** `rails`, `node.js`, `sinatra`, `express.js`, `django`, `.net`
 + **Frontend Frameworks:** `react`, `vue`, `backbone`
++ **AI/LLM:** `anthropic api`, `openai api`
 + **Testing:** `rspec`, `rails minitest`, `mocha`, `chai`, `python unittest`, `ginkgo`, `gomega`
 + **Containers:** `docker`, `docker hub`, `kubernetes`
 + **Package Managers:** `rubygems`, `yarn`, `npm`, `pip`, `apm`, `goop`
