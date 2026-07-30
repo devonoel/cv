@@ -86,7 +86,7 @@ A brief sampling of some of the technology I've worked with professionally:
 + **Backend Frameworks:** `rails`, `node.js`, `sinatra`, `express.js`, `django`, `.net`
 + **Frontend Frameworks:** `react`, `vue`, `backbone`
 + **APIs:** `graphql`, `rest`
-+ **Databases:** `postgresql`, `mysql`
++ **Databases:** `postgresql`, `mysql`, `sql server`
 + **AI/LLM:** `anthropic api`, `openai api`
 + **Testing:** `rspec`, `rails minitest`, `mocha`, `chai`, `python unittest`, `ginkgo`, `gomega`
 + **Containers:** `docker`, `docker hub`, `kubernetes`
