@@ -92,7 +92,7 @@ A brief sampling of some of the technology I've worked with professionally:
 + **Containers:** `docker`, `docker hub`, `kubernetes`
 + **Package Managers:** `rubygems`, `yarn`, `npm`, `pip`, `apm`, `goop`
 + **Automation:** `terraform`, `travis-ci`, `semaphoreci`, `capistrano`, `ansible`, `chef`, `hubot`
-+ **Hosting and Infrastructure:** `aws ec2`,`aws elastic container service`, `aws elastic beanstalk`, `aws s3`, `aws rds`, `google cloud platform`, `heroku`, `digital ocean`
++ **Hosting and Infrastructure:** `aws ec2`,`aws elastic container service`, `aws elastic beanstalk`, `aws s3`, `aws rds`, `google cloud platform`, `heroku`, `digital ocean`, `vercel`, `neon`
 
 And some technology I'm interested in, but haven't yet gotten to work with professionally:
 + **Languages:** `elixir`, `rust`
